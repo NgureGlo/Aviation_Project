@@ -49,15 +49,15 @@ The dataset includes various features such as:
 
 ### Visualizations
 1. **Heatmap of Broad Phase of Flight Frequency for Aircraft Types:**
-![alt text](heatmap.png)
+![alt text](images/heatmap.png)
     This heatmap visualizes the frequency of accidents for various aircraft types across different broad phases of flight. Each cell in the heatmap represents the number of accidents an aircraft type experienced during a specific phase of flight, such as approach, climb, cruise, descent, landing, maneuvering, takeoff, and taxi. The color intensity in each cell indicates the frequency of accidents, with darker shades representing higher frequencies.
 
 2. **Stacked Bar Chart of Engine Types for Top 30 Aircraft Types:**
-![alt text](blue.png)
+![alt text](images/blue.png)
     This stacked bar chart shows the distribution of engine types among the top 30 aircraft types based on occurrence counts. Each bar represents an aircraft type, and the different segments of the bar indicate the proportion of various engine types, such as reciprocating, turbo fan, turbo jet, turbo prop, turbo shaft, and unknown.
 
 3. **Count Plot of Aircraft Type vs Number of Engines:**
-![alt text](engine.png)
+![alt text](images/engine.png)
     This count plot illustrates the relationship between aircraft types and the number of engines they have. Each bar on the plot represents an aircraft type, with the x-axis showing the aircraft type and the y-axis indicating the number of engines.
 
 
