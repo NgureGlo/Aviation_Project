@@ -66,3 +66,7 @@ The dataset includes various features such as:
 1. **Low-Risk Aircraft Types:** Analysis identified aircraft types with lower frequencies of accidents and lower severity of injuries.
 2. **Impact of Weather Conditions:** VMC (Visual Meteorological Conditions) and IMC (Instrument Meteorological Conditions) have significant impacts on the risk associated with different aircraft types.
 3. **Phase of Flight:** Certain phases of flight, such as landing and takeoff, are more prone to accidents across different aircraft types.
+
+
+# Presentation
+If the link to the pdf in the repository does not work, please follow this link to find the presentation. [Aircraft Risk Analysis Presentation](https://www.canva.com/design/DAGHuvdEosY/Kyj4bokJU_MMe4Up9sgOAQ/edit?utm_content=DAGHuvdEosY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
