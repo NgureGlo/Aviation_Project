@@ -56,9 +56,9 @@ The dataset includes various features such as:
 ![alt text](images/blue.png)
     This stacked bar chart shows the distribution of engine types among the top 30 aircraft types based on occurrence counts. Each bar represents an aircraft type, and the different segments of the bar indicate the proportion of various engine types, such as reciprocating, turbo fan, turbo jet, turbo prop, turbo shaft, and unknown.
 
-3. **Count Plot of Aircraft Type vs Number of Engines:**
-![alt text](images/engine.png)
-    This count plot illustrates the relationship between aircraft types and the number of engines they have. Each bar on the plot represents an aircraft type, with the x-axis showing the aircraft type and the y-axis indicating the number of engines.
+3. **Severity Analysis by Aircraft Type:**
+![alt text](images/fatal.png)
+    This bar chart displays the average number of fatal, serious, and minor injuries for different aircraft types. It provides insights into the severity of accidents associated with each aircraft type.
 
 
 ## Conclusion
