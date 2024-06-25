@@ -70,3 +70,6 @@ The dataset includes various features such as:
 
 # Presentation
 If the link to the pdf in the repository does not work, please follow this link to find the presentation. [Aircraft Risk Analysis Presentation](https://www.canva.com/design/DAGHuvdEosY/Kyj4bokJU_MMe4Up9sgOAQ/edit?utm_content=DAGHuvdEosY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+# Tableau Visualizations
+Find the link to the interactive dashboard [here](https://public.tableau.com/app/profile/gloria.ngure/viz/Aircraft-Risk-Analysis-Workbook/AircraftAnalysisDashboard?publish=yes).
